@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Julio and I'm a Cloud Engineer who likes to work on projects in the cloud 
 
-<!--
-**julio-pimentel/julio-pimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been in different industries such as food & beverage, healthcare, gaming, insurance and banking. 
+I have experience in Big Data analytics, Security, DevOps and MLOps
+Most of my projects are deployed in AWS and GCP. 
 
-Here are some ideas to get you started:
+Technical and Functional Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* CI/CD: GitOps, AWS CodePipeline, AWS Elastic Beanstalk, AWS Step Functions, GCP Cloud Functions, GCP Cloud Build, HashiCorp Terraform, Apache Airflow.
+* Data Pipelines: Databricks (Apache Spark), GCP Dataflow, GCP Dataproc, Apache Beam, Hadoop ecosystem, GCP Pub/Sub
+* Databases: MySQL, GCP Cloud Storage, Cloud Bigtable, BigQuery, AWS S3, Amazon DynamoDB, Amazon Redshift. 
+* Programming languages: Python (PySpark, NumPy, Pandas, Scikit-learn, NLKT, TensorFlow, OpenCV, Flair, Torch), R, and JavaScript. 
+* Agile: Scrum Master Certified, Confluence, Jira.
+* Containerisation: Docker, Kubernetes, AWS Fargate, GCP Cloud Run, and Google Kubernetes Engine
+* Machine learning models: Polynomial Regression, Random Forest (Regression), Logistic Regression, SVM (Classification), Clustering, PCA (Unsupervised), NER, sentiment analysis (NLP). 
+* MLOps: Kubeflow, MLFlow, Amazon SageMaker MLOps, GCP Vertex AI
+Data visualisation: Google Data Studio, Tableau, Python and R libraries, Storytelling with Data best practices. 
