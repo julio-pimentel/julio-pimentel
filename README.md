@@ -1,6 +1,4 @@
-## Hi there 👋, my name is Julio and I'm a DevOps Engineer who likes to work on different technologies in the cloud 
-
-He is a certified GCP & AWS Developer, Scrum Master, and Lean Six Sigma Green Belt.
+## Hi there 👋, Julio is a certified GCP & AWS Developer, Scrum Master, and Lean Six Sigma Green Belt.
 
 As a data and cloud specialist, Julio leverages his skills in Python, R, Spark, Databricks, Terraform, Kubernetes, Airflow, and various AWS and GCP services to build scalable, reliable, and secure data pipelines and machine learning models. He is proficient in CI/CD, GitOps, Agile methodologies, and data visualization tools. He is passionate about delivering value and innovation to his clients and empowering them with data-driven insights and solutions.
 
